@@ -21,7 +21,7 @@ Este projeto implementa um bloco de código estilizado utilizando **Highlight.js
 1. **Clone o repositório**:
 
    ```sh
-   git clone https://github.com/cezardsilva/site-com-makedown.git
+   https://github.com/cezardsilva/Site-com-Makedown.git
    ```
 
 2. Abra o arquivo index.html no navegador e veja o bloco de código funcionando.
